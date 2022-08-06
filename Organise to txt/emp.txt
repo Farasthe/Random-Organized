@@ -1,0 +1,6 @@
+1    Arham          Washington    Admin          612-366-0665    21
+2    Jack           Las santos    Sales          702-410-2428    29
+3    Bruce          Las vegas     Production     718-216-8709    36
+4    Wayne          Gotham        Admin          513-451-5187    48
+5    Clark          Metropolis    IT             808-828-3580    23    
+6    Wally          Central City  Sales          978-834-7949    16
